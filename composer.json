@@ -1,0 +1,6 @@
+{
+   "require": {
+      "twig/twig": "^2.13",
+      "tomwalder/php-gds": "^4.2"
+   }
+}
